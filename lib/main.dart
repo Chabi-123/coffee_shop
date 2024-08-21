@@ -1,4 +1,3 @@
-import 'package:coffee_shop/pages/pratice_page.dart';
 import 'package:coffee_shop/pages/welcome_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
